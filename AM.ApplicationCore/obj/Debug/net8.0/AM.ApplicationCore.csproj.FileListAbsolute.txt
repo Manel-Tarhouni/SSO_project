@@ -1,0 +1,12 @@
+C:\Users\m.tarhouni\source\repos\Final_Year_Project_backend\AM.ApplicationCore\bin\Debug\net8.0\AM.ApplicationCore.deps.json
+C:\Users\m.tarhouni\source\repos\Final_Year_Project_backend\AM.ApplicationCore\bin\Debug\net8.0\AM.ApplicationCore.dll
+C:\Users\m.tarhouni\source\repos\Final_Year_Project_backend\AM.ApplicationCore\bin\Debug\net8.0\AM.ApplicationCore.pdb
+C:\Users\m.tarhouni\source\repos\Final_Year_Project_backend\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\m.tarhouni\source\repos\Final_Year_Project_backend\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.tarhouni\source\repos\Final_Year_Project_backend\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\m.tarhouni\source\repos\Final_Year_Project_backend\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.AssemblyInfo.cs
+C:\Users\m.tarhouni\source\repos\Final_Year_Project_backend\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\m.tarhouni\source\repos\Final_Year_Project_backend\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.dll
+C:\Users\m.tarhouni\source\repos\Final_Year_Project_backend\AM.ApplicationCore\obj\Debug\net8.0\refint\AM.ApplicationCore.dll
+C:\Users\m.tarhouni\source\repos\Final_Year_Project_backend\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.pdb
+C:\Users\m.tarhouni\source\repos\Final_Year_Project_backend\AM.ApplicationCore\obj\Debug\net8.0\ref\AM.ApplicationCore.dll
