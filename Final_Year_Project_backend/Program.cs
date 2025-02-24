@@ -15,6 +15,7 @@ builder.Services.AddDbContext<AMContext>(options =>
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+
 var app = builder.Build(); // Now we can call Build() after all services are registered.
 
 // Apply any pending migrations and create the database if needed

@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\m.tarhouni\\source\\repos\\Final_Year_Project_backend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{15C7E33B-D886-4ADC-9A50-0C7BDB395C06}|Final_Year_Project_backend\\Final_Year_Project_backend.csproj|c:\\users\\m.tarhouni\\source\\repos\\final_year_project_backend\\final_year_project_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C7E33B-D886-4ADC-9A50-0C7BDB395C06}|Final_Year_Project_backend\\Final_Year_Project_backend.csproj|solutionrelative:final_year_project_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4020F215-1477-4FC9-94CC-F9AADE2447DF}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\m.tarhouni\\source\\repos\\final_year_project_backend\\am.infrastructure\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4020F215-1477-4FC9-94CC-F9AADE2447DF}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4020F215-1477-4FC9-94CC-F9AADE2447DF}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\m.tarhouni\\source\\repos\\final_year_project_backend\\am.infrastructure\\migrations\\20250224154322_thirdm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4020F215-1477-4FC9-94CC-F9AADE2447DF}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\migrations\\20250224154322_thirdm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4020F215-1477-4FC9-94CC-F9AADE2447DF}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\m.tarhouni\\source\\repos\\final_year_project_backend\\am.infrastructure\\amcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4020F215-1477-4FC9-94CC-F9AADE2447DF}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\amcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15C7E33B-D886-4ADC-9A50-0C7BDB395C06}|Final_Year_Project_backend\\Final_Year_Project_backend.csproj|c:\\users\\m.tarhouni\\source\\repos\\final_year_project_backend\\final_year_project_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15C7E33B-D886-4ADC-9A50-0C7BDB395C06}|Final_Year_Project_backend\\Final_Year_Project_backend.csproj|solutionrelative:final_year_project_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4020F215-1477-4FC9-94CC-F9AADE2447DF}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\m.tarhouni\\source\\repos\\final_year_project_backend\\am.infrastructure\\migrations\\20250223220429_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4020F215-1477-4FC9-94CC-F9AADE2447DF}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\migrations\\20250223220429_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4020F215-1477-4FC9-94CC-F9AADE2447DF}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\m.tarhouni\\source\\repos\\final_year_project_backend\\am.infrastructure\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4020F215-1477-4FC9-94CC-F9AADE2447DF}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4020F215-1477-4FC9-94CC-F9AADE2447DF}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\m.tarhouni\\source\\repos\\final_year_project_backend\\am.infrastructure\\configurations\\tokenconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4020F215-1477-4FC9-94CC-F9AADE2447DF}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\configurations\\tokenconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4020F215-1477-4FC9-94CC-F9AADE2447DF}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\m.tarhouni\\source\\repos\\final_year_project_backend\\am.infrastructure\\configurations\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4020F215-1477-4FC9-94CC-F9AADE2447DF}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\configurations\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4020F215-1477-4FC9-94CC-F9AADE2447DF}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\m.tarhouni\\source\\repos\\final_year_project_backend\\am.infrastructure\\configurations\\applicationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4020F215-1477-4FC9-94CC-F9AADE2447DF}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\configurations\\applicationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{15C7E33B-D886-4ADC-9A50-0C7BDB395C06}|Final_Year_Project_backend\\Final_Year_Project_backend.csproj|c:\\users\\m.tarhouni\\source\\repos\\final_year_project_backend\\final_year_project_backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -41,6 +69,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{15C7E33B-D886-4ADC-9A50-0C7BDB395C06}|Final_Year_Project_backend\\Final_Year_Project_backend.csproj|c:\\users\\m.tarhouni\\source\\repos\\final_year_project_backend\\final_year_project_backend\\final_year_project_backend.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{15C7E33B-D886-4ADC-9A50-0C7BDB395C06}|Final_Year_Project_backend\\Final_Year_Project_backend.csproj|solutionrelative:final_year_project_backend\\final_year_project_backend.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9284F86E-B23A-4C4C-AD9D-343DA30CA4C3}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\m.tarhouni\\source\\repos\\final_year_project_backend\\am.applicationcore\\domain\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9284F86E-B23A-4C4C-AD9D-343DA30CA4C3}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,48 +82,153 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "20250224154322_thirdM.cs",
+              "DocumentMoniker": "C:\\Users\\m.tarhouni\\source\\repos\\Final_Year_Project_backend\\AM.Infrastructure\\Migrations\\20250224154322_thirdM.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\Migrations\\20250224154322_thirdM.cs",
+              "ToolTip": "C:\\Users\\m.tarhouni\\source\\repos\\Final_Year_Project_backend\\AM.Infrastructure\\Migrations\\20250224154322_thirdM.cs",
+              "RelativeToolTip": "AM.Infrastructure\\Migrations\\20250224154322_thirdM.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAewCIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T15:43:22.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TokenConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\m.tarhouni\\source\\repos\\Final_Year_Project_backend\\AM.Infrastructure\\Configurations\\TokenConfiguration.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\Configurations\\TokenConfiguration.cs",
+              "ToolTip": "C:\\Users\\m.tarhouni\\source\\repos\\Final_Year_Project_backend\\AM.Infrastructure\\Configurations\\TokenConfiguration.cs",
+              "RelativeToolTip": "AM.Infrastructure\\Configurations\\TokenConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T15:06:26.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RoleConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\m.tarhouni\\source\\repos\\Final_Year_Project_backend\\AM.Infrastructure\\Configurations\\RoleConfiguration.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\Configurations\\RoleConfiguration.cs",
+              "ToolTip": "C:\\Users\\m.tarhouni\\source\\repos\\Final_Year_Project_backend\\AM.Infrastructure\\Configurations\\RoleConfiguration.cs",
+              "RelativeToolTip": "AM.Infrastructure\\Configurations\\RoleConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T15:06:23.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\m.tarhouni\\source\\repos\\Final_Year_Project_backend\\AM.Infrastructure\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "C:\\Users\\m.tarhouni\\source\\repos\\Final_Year_Project_backend\\AM.Infrastructure\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "AM.Infrastructure\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T15:04:52.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "AMContext.cs",
               "DocumentMoniker": "C:\\Users\\m.tarhouni\\source\\repos\\Final_Year_Project_backend\\AM.Infrastructure\\AMContext.cs",
               "RelativeDocumentMoniker": "AM.Infrastructure\\AMContext.cs",
               "ToolTip": "C:\\Users\\m.tarhouni\\source\\repos\\Final_Year_Project_backend\\AM.Infrastructure\\AMContext.cs",
               "RelativeToolTip": "AM.Infrastructure\\AMContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAcwCAAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-23T16:47:22.522Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\m.tarhouni\\source\\repos\\Final_Year_Project_backend\\AM.Infrastructure\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\m.tarhouni\\source\\repos\\Final_Year_Project_backend\\AM.Infrastructure\\GenericRepository.cs",
+              "RelativeToolTip": "AM.Infrastructure\\GenericRepository.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAMwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T15:00:05.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\m.tarhouni\\source\\repos\\Final_Year_Project_backend\\Final_Year_Project_backend\\Program.cs",
               "RelativeDocumentMoniker": "Final_Year_Project_backend\\Program.cs",
               "ToolTip": "C:\\Users\\m.tarhouni\\source\\repos\\Final_Year_Project_backend\\Final_Year_Project_backend\\Program.cs",
               "RelativeToolTip": "Final_Year_Project_backend\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAnwBYAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T22:46:09.513Z"
+              "WhenOpened": "2025-02-22T22:46:09.513Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "20250223220429_FirstMigration.cs",
+              "DocumentMoniker": "C:\\Users\\m.tarhouni\\source\\repos\\Final_Year_Project_backend\\AM.Infrastructure\\Migrations\\20250223220429_FirstMigration.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\Migrations\\20250223220429_FirstMigration.cs",
+              "ToolTip": "C:\\Users\\m.tarhouni\\source\\repos\\Final_Year_Project_backend\\AM.Infrastructure\\Migrations\\20250223220429_FirstMigration.cs",
+              "RelativeToolTip": "AM.Infrastructure\\Migrations\\20250223220429_FirstMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T15:07:33.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\m.tarhouni\\source\\repos\\Final_Year_Project_backend\\AM.Infrastructure\\Configurations\\ApplicationConfiguration.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\Configurations\\ApplicationConfiguration.cs",
+              "ToolTip": "C:\\Users\\m.tarhouni\\source\\repos\\Final_Year_Project_backend\\AM.Infrastructure\\Configurations\\ApplicationConfiguration.cs",
+              "RelativeToolTip": "AM.Infrastructure\\Configurations\\ApplicationConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T15:06:20.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Permission.cs",
+              "DocumentMoniker": "C:\\Users\\m.tarhouni\\source\\repos\\Final_Year_Project_backend\\AM.ApplicationCore\\Domain\\Permission.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Permission.cs",
+              "ToolTip": "C:\\Users\\m.tarhouni\\source\\repos\\Final_Year_Project_backend\\AM.ApplicationCore\\Domain\\Permission.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\Permission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T14:58:41.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\m.tarhouni\\source\\repos\\Final_Year_Project_backend\\Final_Year_Project_backend\\appsettings.json",
               "RelativeDocumentMoniker": "Final_Year_Project_backend\\appsettings.json",
               "ToolTip": "C:\\Users\\m.tarhouni\\source\\repos\\Final_Year_Project_backend\\Final_Year_Project_backend\\appsettings.json",
               "RelativeToolTip": "Final_Year_Project_backend\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-24T10:04:01.191Z"
+              "WhenOpened": "2025-02-24T10:04:01.191Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "Final_Year_Project_backend.csproj",
               "DocumentMoniker": "C:\\Users\\m.tarhouni\\source\\repos\\Final_Year_Project_backend\\Final_Year_Project_backend\\Final_Year_Project_backend.csproj",
               "RelativeDocumentMoniker": "Final_Year_Project_backend\\Final_Year_Project_backend.csproj",
@@ -103,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "AM.Infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\m.tarhouni\\source\\repos\\Final_Year_Project_backend\\AM.Infrastructure\\AM.Infrastructure.csproj",
               "RelativeDocumentMoniker": "AM.Infrastructure\\AM.Infrastructure.csproj",
@@ -115,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "20250223214828_secondMigration.cs",
               "DocumentMoniker": "C:\\Users\\m.tarhouni\\source\\repos\\Final_Year_Project_backend\\AM.Infrastructure\\Migrations\\20250223214828_secondMigration.cs",
               "RelativeDocumentMoniker": "AM.Infrastructure\\Migrations\\20250223214828_secondMigration.cs",
@@ -127,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\m.tarhouni\\source\\repos\\Final_Year_Project_backend\\Final_Year_Project_backend\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Final_Year_Project_backend\\Properties\\launchSettings.json",
@@ -139,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "20250223173146_firstone.cs",
               "DocumentMoniker": "C:\\Users\\m.tarhouni\\source\\repos\\Final_Year_Project_backend\\AM.Infrastructure\\Migrations\\20250223173146_firstone.cs",
               "RelativeDocumentMoniker": "AM.Infrastructure\\Migrations\\20250223173146_firstone.cs",
@@ -151,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "AM.ApplicationCore.csproj",
               "DocumentMoniker": "C:\\Users\\m.tarhouni\\source\\repos\\Final_Year_Project_backend\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
               "RelativeDocumentMoniker": "AM.ApplicationCore\\AM.ApplicationCore.csproj",
@@ -163,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "Final_Year_Project_backend",
               "DocumentMoniker": "C:\\Users\\m.tarhouni\\source\\repos\\Final_Year_Project_backend\\Final_Year_Project_backend\\Final_Year_Project_backend.csproj",
               "RelativeDocumentMoniker": "Final_Year_Project_backend\\Final_Year_Project_backend.csproj",

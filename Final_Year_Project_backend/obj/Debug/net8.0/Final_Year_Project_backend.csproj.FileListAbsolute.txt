@@ -119,3 +119,4 @@ C:\Users\m.tarhouni\source\repos\Final_Year_Project_backend\Final_Year_Project_b
 C:\Users\m.tarhouni\source\repos\Final_Year_Project_backend\Final_Year_Project_backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\m.tarhouni\source\repos\Final_Year_Project_backend\Final_Year_Project_backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\m.tarhouni\source\repos\Final_Year_Project_backend\Final_Year_Project_backend\bin\Debug\net8.0\Final_Year_Project_backend.staticwebassets.runtime.json
+C:\Users\m.tarhouni\source\repos\Final_Year_Project_backend\Final_Year_Project_backend\obj\Debug\net8.0\Final_Year_Project_backend.sourcelink.json

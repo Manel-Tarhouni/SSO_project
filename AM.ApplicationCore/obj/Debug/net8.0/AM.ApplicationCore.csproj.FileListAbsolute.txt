@@ -10,3 +10,4 @@ C:\Users\m.tarhouni\source\repos\Final_Year_Project_backend\AM.ApplicationCore\o
 C:\Users\m.tarhouni\source\repos\Final_Year_Project_backend\AM.ApplicationCore\obj\Debug\net8.0\refint\AM.ApplicationCore.dll
 C:\Users\m.tarhouni\source\repos\Final_Year_Project_backend\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.pdb
 C:\Users\m.tarhouni\source\repos\Final_Year_Project_backend\AM.ApplicationCore\obj\Debug\net8.0\ref\AM.ApplicationCore.dll
+C:\Users\m.tarhouni\source\repos\Final_Year_Project_backend\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.sourcelink.json
