@@ -5,12 +5,14 @@ using System.Text;
 using System.Threading.Tasks;
 using AM.ApplicationCore.Domain;
 using AM.Infrastructure.Configurations;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 
 namespace AM.Infrastructure
 {
-    public class AMContext :DbContext
+    public class AMContext :IdentityDbContext<User,IdentityRole<Guid>,Guid>
     {
         protected readonly IConfiguration configuration;
         public AMContext(IConfiguration configuration)

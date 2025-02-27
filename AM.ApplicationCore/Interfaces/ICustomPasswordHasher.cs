@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace AM.ApplicationCore.Interfaces
+{
+    public interface ICustomPasswordHasher
+    {
+        string Hash(string password);
+        bool VerifyPassword(string passwordHashed,string inputPassword);
+    }
+}

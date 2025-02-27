@@ -11,13 +11,16 @@ namespace AM.ApplicationCore.Interfaces
     public interface IGenericRepository<TEntity>  where TEntity : class
     
     {
-        void Add(TEntity entity);
-        void Update(TEntity entity);
-        void Delete(TEntity entity);
-        void Delete(Expression<Func<TEntity, bool>> where);
-        TEntity GetById(params object[] keyValues);
-        TEntity Get(Expression<Func<TEntity, bool>> where);
-        IEnumerable<TEntity> GetAll();
-        IEnumerable<TEntity> GetMany(Expression<Func<TEntity, bool>> where);
+        Task AddAsync(TEntity entity);
+        Task UpdateAsync(TEntity entity);
+        Task DeleteAsync(TEntity entity);
+        Task DeleteAsync(Expression<Func<TEntity, bool>> where);
+        Task<TEntity> GetByIdAsync(params object[] keyValues);
+        Task<TEntity> GetAsync(Expression<Func<TEntity, bool>> where);
+        Task<IEnumerable<TEntity>> GetAllAsync();
+        Task<IEnumerable<TEntity>> GetManyAsync(Expression<Func<TEntity, bool>> where);
+        Task SaveChangesAsync();
+        Task<TEntity> GetByEmailAsync(string email);
+
     }
 }

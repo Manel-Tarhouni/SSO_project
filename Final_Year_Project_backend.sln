@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AM.ApplicationCore", "AM.Ap
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AM.Infrastructure", "AM.Infrastructure\AM.Infrastructure.csproj", "{4020F215-1477-4FC9-94CC-F9AADE2447DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{34302DA1-786E-4F85-A536-0F4C8354B464}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing", "Testing\Testing.csproj", "{ED4327DC-ED0C-44E2-A5B2-B7C58D4BE24E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{4020F215-1477-4FC9-94CC-F9AADE2447DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4020F215-1477-4FC9-94CC-F9AADE2447DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4020F215-1477-4FC9-94CC-F9AADE2447DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34302DA1-786E-4F85-A536-0F4C8354B464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34302DA1-786E-4F85-A536-0F4C8354B464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34302DA1-786E-4F85-A536-0F4C8354B464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34302DA1-786E-4F85-A536-0F4C8354B464}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED4327DC-ED0C-44E2-A5B2-B7C58D4BE24E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED4327DC-ED0C-44E2-A5B2-B7C58D4BE24E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED4327DC-ED0C-44E2-A5B2-B7C58D4BE24E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED4327DC-ED0C-44E2-A5B2-B7C58D4BE24E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

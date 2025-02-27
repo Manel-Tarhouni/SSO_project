@@ -12,8 +12,7 @@ namespace AM.Infrastructure.Configurations
     {
         public void Configure(EntityTypeBuilder<User> builder)
         {
-            builder.HasKey(u => u.UserId);
-
+          
             builder.HasMany(u => u.Applications) 
                    .WithOne(a => a.User)         
                    .HasForeignKey(a => a.UserId)

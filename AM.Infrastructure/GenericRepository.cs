@@ -4,6 +4,7 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
+using AM.ApplicationCore.Domain;
 using AM.ApplicationCore.Interfaces;
 using Microsoft.EntityFrameworkCore;
 
@@ -12,58 +13,80 @@ namespace AM.Infrastructure
     public class GenericRepository<TEntity>: IGenericRepository<TEntity> where TEntity : class
 
     {
-        private readonly DbContext _context;
+        private readonly AMContext _context;
         private readonly DbSet<TEntity> _dbSet;
 
-        public GenericRepository(DbContext context)
+        public GenericRepository(AMContext context)
         {
             _context = context;
             _dbSet = _context.Set<TEntity>();
         }
 
-        public void Add(TEntity entity)
+        public async Task AddAsync(TEntity entity)
         {
-            _dbSet.Add(entity);
+            await _dbSet.AddAsync(entity);
         }
 
-        public void Delete(TEntity entity)
+    
+        public async Task DeleteAsync(TEntity entity)
         {
             _dbSet.Remove(entity);
+            await Task.CompletedTask;  
         }
 
-        public void Delete(Expression<Func<TEntity, bool>> where)
+        public async Task DeleteAsync(Expression<Func<TEntity, bool>> where)
         {
-            _dbSet.RemoveRange(_dbSet.Where(where));
+            var entities = _dbSet.Where(where);
+            _dbSet.RemoveRange(entities);
+            await Task.CompletedTask;  
         }
 
-        public TEntity Get(Expression<Func<TEntity, bool>> where)
+       
+        public async Task<TEntity> GetAsync(Expression<Func<TEntity, bool>> where)
         {
-            return _dbSet.Where(where).FirstOrDefault();
+            return await _dbSet.Where(where).FirstOrDefaultAsync();
         }
 
-        public IEnumerable<TEntity> GetAll()
+        public async Task<IEnumerable<TEntity>> GetAllAsync()
         {
-            return _dbSet.AsEnumerable();
+            return await _dbSet.ToListAsync();
         }
 
-        public TEntity GetById(params object[] keyValues)
+   
+        public async Task<TEntity> GetByIdAsync(params object[] keyValues)
         {
-            return _dbSet.Find(keyValues);
+            return await _dbSet.FindAsync(keyValues);
         }
 
-        public IEnumerable<TEntity> GetMany(Expression<Func<TEntity, bool>> where)
+        
+        public async Task<IEnumerable<TEntity>> GetManyAsync(Expression<Func<TEntity, bool>> where)
         {
             IQueryable<TEntity> mydbset = _dbSet;
             if (where != null)
                 mydbset = mydbset.Where(where);
-            return mydbset.AsEnumerable();
+
+            return await mydbset.ToListAsync();
         }
 
-        public void Update(TEntity entity)
+
+        public async Task UpdateAsync(TEntity entity)
         {
             _dbSet.Update(entity);
+            await Task.CompletedTask;
+        }
+        public async Task SaveChangesAsync()
+        {
+            await _context.SaveChangesAsync();
+        }
+        public async Task<TEntity> GetByEmailAsync(string email)
+        {
+            if (typeof(TEntity) == typeof(User))
+            {
+                var userDbSet = _context.Set<User>();
+                return await userDbSet.FirstOrDefaultAsync(u => u.Email == email) as TEntity;
+            }
+            return null;
         }
 
-      
     }
 }

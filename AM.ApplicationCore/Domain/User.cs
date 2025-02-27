@@ -5,20 +5,17 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Identity;
 
 namespace AM.ApplicationCore.Domain
 {
-    public class User
+    public class User:IdentityUser<Guid>
     {
-        
-        public Guid UserId { get; set; }
         [Required,StringLength(20)]
-        public string Username { get; set; }
-        [DataType(DataType.EmailAddress)]   
-         public string Email { get; set; }
-        [DataType(DataType.Password)]
-        [PasswordPropertyText(true)] 
-        public string Password { get; set; }
+        public string Firstname { get; set; }
+
+        [Required, StringLength(20)]
+        public string Lastname { get; set; }
         
         public virtual List<Application> Applications { get; set; }
         public virtual List<Role> Roles { get; set; }

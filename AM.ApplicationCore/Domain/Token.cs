@@ -20,9 +20,10 @@ namespace AM.ApplicationCore.Domain
         [Key]
         public Guid TokenId { get; set; }
         public Type_token type { get; set; }
-        [DataType(DataType.Date)]
-        public DateTime Expiracy_Date { get; set; }
-        [Required]
+        public string TokenValue { get; set; }
+       [DataType(DataType.Date)]
+        public DateTime ExpiryDate { get; set; }
+ 
         public List<string> scopes { get; set; }
 
         public virtual Guid UserId { get; set; }
